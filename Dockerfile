@@ -1,6 +1,6 @@
 FROM jupyter/datascience-notebook
 
-MAINTAINER Chris Fonnesbeck <fonnesbeck@gmail.com>
+LABEL maintainer="Chris Fonnesbeck <fonnesbeck@gmail.com>"
 
 USER root
 
